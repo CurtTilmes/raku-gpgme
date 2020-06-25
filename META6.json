@@ -15,7 +15,7 @@
                 "NativeCall",
                 "NativeHelpers::Callback",
                 "NativeLibs:ver<0.0.7>:auth<github:salortiz>",
-                "gpgme:from<native>"
+                "gpgme:from<native>:ver<11>"
             ]
         },
         "test": {
